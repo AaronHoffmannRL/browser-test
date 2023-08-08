@@ -1,0 +1,28 @@
+{
+    "families": [
+        {
+            "name": "cheese",
+            "description": "Proident esse exercitation in amet minim eu eiusmod nisi in. Quis ipsum id aliquip consequat reprehenderit labore culpa. Est nostrud cupidatat laboris laborum ex adipisicing. Do minim ullamco ex aute excepteur reprehenderit ut. Fugiat laborum veniam aliquip aliqua dolore ipsum mollit adipisicing. Officia aliquip elit sint amet sint culpa id sunt nostrud aute do cupidatat tempor. Qui ut magna reprehenderit minim ad commodo ipsum magna proident officia labore.",
+            "links": [
+                "example.com",
+                "example2.com",
+                "example3/com"
+            ]
+        },
+        {
+            "name": "service",
+            "description": "Anim voluptate dolor amet elit qui nulla cupidatat ipsum laboris ex esse cupidatat tempor. Labore magna esse reprehenderit in non irure esse eiusmod culpa laboris eu. Anim cupidatat id ipsum occaecat tempor aliquip minim aliqua ad. Minim laborum eiusmod consectetur pariatur aute mollit sint Lorem velit ad consequat exercitation ex. Ea sit irure duis Lorem id sint Lorem consectetur sit officia non labore. Sint esse pariatur commodo tempor minim in.",
+            "links": ""
+        },
+        {
+            "name": "such",
+            "description": "Consequat tempor voluptate nulla sunt exercitation irure anim sunt commodo. Fugiat enim in in magna et esse fugiat duis culpa eiusmod aute adipisicing. Consequat adipisicing quis ex aute consectetur incididunt. Do qui eu magna officia incididunt ullamco exercitation reprehenderit commodo. Nostrud exercitation ea sunt non pariatur adipisicing laborum exercitation proident aliqua consequat. Ad do eiusmod qui consectetur commodo officia nulla mollit aliquip eiusmod.",
+            "links": ""
+        },
+        {
+            "name": "gulf",
+            "description": "Ipsum Lorem cupidatat qui aute cupidatat nostrud reprehenderit. Nulla consectetur culpa velit incididunt veniam enim magna mollit anim adipisicing pariatur. Cillum ad aute voluptate sunt consequat ex.",
+            "links": ""
+        }
+    ]
+}
